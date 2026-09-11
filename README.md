@@ -8,7 +8,7 @@ Complaint Compass turns free-text passenger issues into structured support signa
 
 | Security / luggage example | Medical-assistance example |
 | --- | --- |
-| ![Security classification result](assets/security-classification.png) | ![Medical-assistance classification result](assets/medical-classification.png) |
+| ![Security classification result](assets/Screenshot%20%284059%29.png) | ![Medical assistance classification result](assets/Screenshot%20%284060%29.png) |
 
 ## Features
 
